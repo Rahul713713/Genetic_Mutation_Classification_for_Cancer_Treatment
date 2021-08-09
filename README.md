@@ -24,7 +24,6 @@ Classify the given genetic variations/mutations based on evidence from text-base
 - Checked whether we have missing data for various columns.
 - Replaced the missing values. 
 - Cleaned the text data during text preprocessing
-- Performed Data Standardisation to get the data on the same scale with the mean of 0 and standard deviation of 1.
 - Finally,the columns used for building the models are
 
  1   ID             
