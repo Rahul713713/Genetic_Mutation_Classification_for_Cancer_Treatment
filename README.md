@@ -23,7 +23,7 @@ Classify the given genetic variations/mutations based on evidence from text-base
 - Packages: pandas, numpy, matplotlib, seaborn, nltk,scikit-learn
 
 # Data Cleaning and Preprocessing
-## After reading the data, I needed to clean it up so that it was usable for our data analysis. I made the following changes and created the following variables:
+## After reading the data, I needed to clean it up so that it would be fit for our data analysis. I made the following changes and created the following variables:
 - Checked whether we have missing data for various columns.
 - Replaced the missing values. 
 - Cleaned the text data during text preprocessing
