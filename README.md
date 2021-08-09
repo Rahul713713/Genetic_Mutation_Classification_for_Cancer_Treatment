@@ -1,6 +1,3 @@
-
-Developed multiple machine learning models to solve a multiclass classification problem of identifying multiple variants of genes which can cause cancer
-
 # Genetic Mutation Classification for Cancer Treatment : Project Overview
 ![Genetic_Mutation_Classification](https://github.com/Rahul713713/Genetic_Mutation_Classification_for_Cancer_Treatment/blob/main/CancerTreatment.jpg "Genetic Mutation Classification for Cancer Treatment")
 - Created multiple charts,graphs,countplots,etc. in order to understand the data as this was a multiclass classification problem.
